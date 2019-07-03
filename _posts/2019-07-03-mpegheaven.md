@@ -2,7 +2,6 @@
 layout: post
 title: The night of the 10,000m PBs is back
 author: Andy Weir
-cover_image: http://file.opentrack.run/img/2019/jazu.jpg
 ---
 
 Ben Pochee and his team have being putting in some serious hard graft ahead of this Saturday's races. All the distance fans for miles around will be at Hampstead Heath either to run or cheer on their chums. Later on in the evening the stars of european running willl compete in the European Championships which make up the later races. Add beer and fan positioning that is close enough to the athletes to be able to smell the effort and you are destined for a top night out.
